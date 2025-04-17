@@ -12,7 +12,7 @@
 ## 📌 Featured Projects
 #### 🧠 **Intelligent Voice-Based Email Assistant**  
 Voice-controlled system for visually impaired users with NLP, voice biometrics, and smart spam filtering.  
-[🔗 GitHub Repo](#) 
+[🔗 [GitHub Repo](https://github.com/parichoudhary645/Intelligent-Voice-Based-Email-Assistant-System-for-Visually-Impaired-Users)](#) 
 
 #### 🔐 **Password Strength Analyzer**  
 ML + Deep Learning system to evaluate password strength using LSTM/CNN and Hashcat simulations.  
