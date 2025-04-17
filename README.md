@@ -21,7 +21,7 @@ ML + Deep Learning system to evaluate password strength using LSTM/CNN and Hashc
 
 #### 🚆 **AI-Driven Railway Management System**  
 AI-powered system using YOLOv8, YOLOv8s, and YOLO-NAS for real-time crowd control, waste detection, and violence monitoring in railways, improving safety and efficiency by 40%.  
-[🔗 GitHub Repo](#) • [📊 IEEE Published](#) • [📄 Patent](AppNo=202421087239)
+[🔗 [GitHub Repo](https://github.com/parichoudhary645/Railway-Operations-with-AI)](#) • [📊 IEEE Published](#) • [📄 Patent](AppNo=202421087239)
 
 
 📫 Reach me on [LinkedIn]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/pari-choudhary-32194a282/])
