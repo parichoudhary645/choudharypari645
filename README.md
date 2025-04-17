@@ -16,7 +16,7 @@ Voice-controlled system for visually impaired users with NLP, voice biometrics, 
 
 #### 🔐 **Password Strength Analyzer**  
 ML + Deep Learning system to evaluate password strength using LSTM/CNN and Hashcat simulations.  
-[🔗 GitHub Repo](#)
+[🔗 [GitHub Repo](https://github.com/parichoudhary645/Password-Strength-Analyzer)](#)
 
 
 #### 🚆 **AI-Driven Railway Management System**  
