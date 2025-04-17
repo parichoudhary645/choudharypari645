@@ -14,9 +14,9 @@
 Voice-controlled system for visually impaired users with NLP, voice biometrics, and smart spam filtering.  
 [🔗 GitHub Repo](#) 
 
-#### ☕ **Vision-Based Coffee Management System**  
-OpenCV + Deep Learning system to track barista productivity and customer behavior.  
-[🔗 GitHub Repo](#) • [📊 IEEE Published : https://doi.org/10.1109/ICAAIC60222.2024.10575836](#)
+#### 🔐 **Password Strength Analyzer**  
+ML + Deep Learning system to evaluate password strength using LSTM/CNN and Hashcat simulations.  
+[🔗 GitHub Repo](#)
 
 
 #### 🚆 **AI-Driven Railway Management System**  
